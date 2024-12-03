@@ -1,4 +1,6 @@
 
+About Me 👋
+Hello! I'm a freelance web developer specializing in HTML, CSS, and React. I love creating responsive, user-friendly websites tailored to client needs.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adharvachu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adharv) 
 
