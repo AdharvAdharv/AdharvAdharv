@@ -1,6 +1,9 @@
+## 👋 About Me
 
-About Me 👋
-Hello! I'm a freelance web developer specializing in HTML,Tailwind CSS,React ,JavaScript,Nodejs (express) and Docker. I love creating responsive, user-friendly websites tailored to client needs.
+- 🌱 Currently learning Blockchain and MERN Stack Development
+- 💻 Passionate about building cool, modern web apps
+- 🔗 Check out my portfolio: [My Portfolio](https://portfolio-adharvs-projects.vercel.app/)
+
 
 
 
