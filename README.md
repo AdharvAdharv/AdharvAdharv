@@ -26,7 +26,7 @@ Hello! I'm a freelance web developer specializing in HTML,Tailwind CSS,React ,Ja
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/AdharvAdharv/AdharvAdharv/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AdharvAdharv/AdharvAdharv/blob/output/github-snake-dark.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
