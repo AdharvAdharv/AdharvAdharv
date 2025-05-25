@@ -23,8 +23,6 @@ Hello! I'm a freelance web developer specializing in HTML,Tailwind CSS,React ,Ja
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdharvAdharv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![snake gif](https://github.com/AdharvAdharv/AdharvAdharv/blob/output/github-snake.svg)
 
 ## 🐍 Contribution Snake
 
